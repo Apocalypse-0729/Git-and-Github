@@ -1,4 +1,33 @@
 1. You have a project folder and you want other people to collaborate in this project.
 2. Other one is, you regularly update your project, let's think of you update on 1st June, 2 June, 3rd June and continuosly on daily basis you update it and now you want to go back in history to move to that face of project as it looks on 1st June, so it can be possible only using Git and Github.
 3. Basically it stores the history of all time of project.
-4. 
+4. Also, while 100 people working on some project, what like open soruce project if someone has done some changes where in the code can be saved by github.\
+5. Email Example-> git is a service, which github provide at its best
+just like email service provided by yahoo, Gmail, Outlook, and github,gitlab and bitbucket. [version control system]
+6. First you need to Download, Git using git-scm.com, download this and pretty easy to setup, and if you want to check wheather it is installed or not, you can check through command prompt, commandline or depending upon Mac or window u are using I am here using window, so i will check it from cmd.
+7. What terminal allows us to do, its like we can manipulate the file through commands.
+8. Like I can see you few commands:
+	dir-> list all the files inside the folder
+	mkdir-> make directory
+	cd-> current directory
+	cd ..-> move out from directory
+	cd <directoryName> -> change directory
+	dir /a-> to see all files including hidden one.
+9. Where this all info saved inside the folder regarding what changes we made where, so its stored in .git folder, which is hidden by default.
+10. Now all the changes i made from this point will store inside the .git file.
+11. Just take a example, create a new file named, test.txt
+12. It shows the status of changes we made, so it shows, it shows this change is untracked, it says hey these changes are made but we have not a record of these changes yet.
+13. Let's take a example, everyone click the photo with the bride and groom, so how it follows like this->
+	The People whose photo has not been clicked yet. [Untracked Files]
+	They will go on the stage. [git add .] . means all and specify the file name. 
+	The photographer will click the photo of the people. 
+	The photo will be stored forever inside the photo Album as the history of wedding.
+	Got my point n.
+14. git commit -m "Message"
+15. Now if we check for git status, means any other person remaining whose photo has not been clicked, git status.
+16. Give an example of doing the modification in a file and commit that change.
+17. How can we see all the changes we made till now.
+18. Now let's move towards the deletion of one file, just thought we have deleted one file. show them through deletion, now add the changes like before we did, git status, git add ., git commit -m "message" now check the git log, but sorry i dont want to delete that file i did this by mistake.
+19. Now go to git log, and they are stored on the top of each other like a stack.
+20. git reset HashID
+21. 
