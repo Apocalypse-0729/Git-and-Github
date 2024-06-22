@@ -35,4 +35,11 @@ just like email service provided by yahoo, Gmail, Outlook, and github,gitlab and
 23. git remote add origin <URL>
 24. No we can't see any changes here, because we have not committed in that.
 25. git push origin master | git push LINK BRANCH
-26.
+26. Naming convention is Master.
+27. What is branching?
+28. Use of branching is to safely update the code in other branch.
+29. can you think we can do in some branch struture let's think of not disturbing the original code and trying out somethin new in other branch.
+30. You should never commit on the main branch because it will create issue if there may be bugs inside the code, some errors, so that the end user not affected by this.
+31. HEAD File inside the .git, head store where your commit is pointing at which point of time.
+32. git merge feature, means now all people can see this, master branch will got updated.
+33. 
