@@ -32,3 +32,7 @@ just like email service provided by yahoo, Gmail, Outlook, and github,gitlab and
 20. git reset HashID
 21. Now we further want to go like it was before just these commit are in unstaged area u can check throught, git status, now git add . , git commit -m "Message".
 22. Now Move how github works, these which i told you just before are the commands of the git and move to github.
+23. git remote add origin <URL>
+24. No we can't see any changes here, because we have not committed in that.
+25. git push origin master | git push LINK BRANCH
+26.
