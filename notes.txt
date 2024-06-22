@@ -1,0 +1,4 @@
+1. You have a project folder and you want other people to collaborate in this project.
+2. Other one is, you regularly update your project, let's think of you update on 1st June, 2 June, 3rd June and continuosly on daily basis you update it and now you want to go back in history to move to that face of project as it looks on 1st June, so it can be possible only using Git and Github.
+3. Basically it stores the history of all time of project.
+4. 
