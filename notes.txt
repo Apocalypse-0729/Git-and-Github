@@ -1,4 +1,2 @@
 HealthEcon is Good Startup
-my name is Hardik
-my name is akash
-my name is milind
+my name is Hardik, akash
