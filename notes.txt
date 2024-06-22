@@ -30,4 +30,5 @@ just like email service provided by yahoo, Gmail, Outlook, and github,gitlab and
 18. Now let's move towards the deletion of one file, just thought we have deleted one file. show them through deletion, now add the changes like before we did, git status, git add ., git commit -m "message" now check the git log, but sorry i dont want to delete that file i did this by mistake.
 19. Now go to git log, and they are stored on the top of each other like a stack.
 20. git reset HashID
-21. 
+21. Now we further want to go like it was before just these commit are in unstaged area u can check throught, git status, now git add . , git commit -m "Message".
+22. Now Move how github works, these which i told you just before are the commands of the git and move to github.
